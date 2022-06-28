@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/apes/static/css/main.16f5166f.css",
-    "main.js": "/apes/static/js/main.63312061.js",
+    "main.js": "/apes/static/js/main.24c461a1.js",
     "static/media/marvelbg.jpg": "/apes/static/media/marvelbg.b51b682857bf7bf5a5a0.jpg",
+    "static/media/marvel-logo.png": "/apes/static/media/marvel-logo.58b8e3c47bc4eb3fda69.png",
     "index.html": "/apes/index.html",
     "main.16f5166f.css.map": "/apes/static/css/main.16f5166f.css.map",
-    "main.63312061.js.map": "/apes/static/js/main.63312061.js.map"
+    "main.24c461a1.js.map": "/apes/static/js/main.24c461a1.js.map"
   },
   "entrypoints": [
     "static/css/main.16f5166f.css",
-    "static/js/main.63312061.js"
+    "static/js/main.24c461a1.js"
   ]
 }
